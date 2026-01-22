@@ -4,7 +4,7 @@
 ## Description
 ​The game challenges users with random mathematical questions and evaluates their answers. It's a great way to practice logical thinking and basic arithmetic while learning the core concepts of C++.
 
-#### Key Features & Concepts Used
+## Key Features & Concepts Used
 ​In this project, I implemented several programming fundamentals:
 ​Loops: Used to handle multiple rounds and repeat questions.
 ​Arrays: Used for storing data and managing game results.
